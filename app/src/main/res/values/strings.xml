@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BookApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="favourites">Favourites</string>
+    <string name="profile">Profile</string>
+    <string name="about_app">About App</string>
+    <string name="navigation_drawer">Navigation Drawer</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="dashboard_fragment">Dashboard Fragment</string>
+    <string name="favourites_fragment">Favourites Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="about_app_fragment">The Book App has been taught and developed by Internshala Trainings in it\'s Android App development Training program.This app uses Kotlin to build it\'s functionality.Read books by your favourite author and Information about of the book </string>
+    <string name="add_to_favourites">Add to Favourites</string>
+    <string name="action_sort">Sort</string>
+    <string name="about_the_book">About the book:</string>
+    <string name="_4_5">4.5</string>
+    <string name="name_of_the_author">Name of the author</string>
+    <string name="name_of_the_book">Name of the book</string>
+    <string name="rs_299">Rs. 299</string>
+    <string name="imageview">ImageView</string>
+</resources>
